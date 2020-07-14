@@ -5,3 +5,10 @@ This is finance app for member based NBFC. The solo purpose is mutual benefit of
 work is in progress.
 
 this repo will only have client code. the server code repo is private.
+
+Technology stack:
+
+vue
+vuetify
+vuex,
+ES, etc
